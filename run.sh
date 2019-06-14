@@ -1,1 +1,1 @@
-FLASK_APP=app.py flask run
+FLASK_APP=HW/app.py flask run
